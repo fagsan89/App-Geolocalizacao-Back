@@ -1,5 +1,9 @@
 Esta API foi desenvolvida com NodeJs/Express/MongoDb/Mongoose
 
+## Arquivo Insomnia 
+Esta disponivel na raiz do projeto um arquivo Insomnia.
+Contendo as chamadas da Api para testes.
+
 ## Scripts disponíveis
 No diretório do projeto, você pode executar:
 
